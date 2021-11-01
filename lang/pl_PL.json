@@ -1,0 +1,23 @@
+{
+    "VERIFY_SUCCESS": "Witaj ponownie!",
+    "INTERNAL_ERROR": "Błąd serwera",
+
+    "LOGIN_SUCCESS": "Zalogowano pomyślnie",
+    "LOGIN_EMPTYFIELDS": "Wypełnij wszystkie pola!",
+    "LOGIN_WRONDCREDENTIALS": "Błędny login lub hasło",
+    "LOGIN_NOTACTIVATED": "Twoje konto nie zostało aktywowane. Sprawdź skrzynkę e-mail",
+    
+    "REGISTER_EMPTYFIELDS": "Wypełnij wszystkie pola!",
+    "REGISTER_SHORTPASSWORD": "Hasło musi posiadać co najmniej 5 znaków",
+    "REGISTER_WRONGSECONDPASSWORD": "Wpisz hasło w dwóch polach w celu weryfikacji",
+    "REGISTER_ACCOUNTEXISTS": "Konto o podanym adresie e-mail już istnieje",
+    "REGISTER_MAILSUBJECT": "Aktywuj konto",
+    "REGISTER_MAILMESSAGE": "Kliknij w link poniżej, aby aktywować konto.",
+    "REGISTER_SECONDMAILMESSAGE": "Masz 2 godziny na aktywację konta!",
+    "REGISTER_SUCCESS": "Zarejestrowano pomyślnie, sprawdź skrzynkę e-mail",
+    "REGISTER_INVALIDEMAIL": "Zły adres e-mail",
+    
+    "DELETE_SUCCESS": "Konto pomyślnie usunięte",
+
+    "LOGOUT_SUCCESS": "Wylogowano pomyślnie"
+}

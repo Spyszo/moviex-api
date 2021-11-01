@@ -1,0 +1,23 @@
+{
+    "VERIFY_SUCCESS": "Welcome back!",
+    "INTERNAL_ERROR": "Internal server error",
+
+    "LOGIN_SUCCESS": "Logged in successfully",
+    "LOGIN_EMPTYFIELDS": "Not all fields have been entered",
+    "LOGIN_WRONDCREDENTIALS": "Wrong email or password",
+    "LOGIN_NOTACTIVATED": "Account is not activated. Check your email",
+    
+    "REGISTER_EMPTYFIELDS": "Not all fields have been entered",
+    "REGISTER_SHORTPASSWORD": "The password needs to be at least 5 characters long",
+    "REGISTER_WRONGSECONDPASSWORD": "Enter the same password twice for verification",
+    "REGISTER_ACCOUNTEXISTS": "An account with this email already exists.",
+    "REGISTER_MAILSUBJECT": "Activate your account",
+    "REGISTER_MAILMESSAGE": "Click link below to activate your accout: ",
+    "REGISTER_SECONDMAILMESSAGE": "You have 2 hours to activate your account!",
+    "REGISTER_SUCCESS": "REGISTER successful. Check your email to activate your account",
+    "REGISTER_INVALIDEMAIL": "Invalid email address",
+    
+    "DELETE_SUCCESS": "Deleted successfully",
+
+    "LOGOUT_SUCCESS": "Logged out!"
+}
