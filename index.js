@@ -37,7 +37,7 @@ if (!process.env.PRODUCTION) {
   app.use((req, res, next) => {
     setTimeout(next, 50);
   });
-  app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
+  app.use(cors({ origin: 'https://moviex.wesonline.site/', credentials: true }));
 }
 
 // set up routes
