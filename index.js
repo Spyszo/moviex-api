@@ -32,6 +32,7 @@ if (!process.env.PRODUCTION) {
   app.use((req, res, next) => {
     setTimeout(next, 500);
   });
+  app.use(cors({ origin: 'https://moviex.wesonline.site/', credentials: true }));
   app.use(speedLimiter);
 } else {
   app.use((req, res, next) => {
